@@ -1,1 +1,1 @@
-#Acesse o projeto em www.bilingualx.com.br
+# Acesse o projeto através do site WWW.BILINGUALX.COM.BR
